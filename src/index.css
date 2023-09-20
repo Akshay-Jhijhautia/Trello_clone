@@ -1,0 +1,10 @@
+.checklist {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.checkitem {
+  display: flex;
+  flex-direction: column;
+}
